@@ -11,7 +11,11 @@ export default function App() {
         Here is the story of how I learnt React.js. My prior knowledge of
         javascript was rather <strong>limited.</strong>
       </p>
-      <button>Click</button>
+      <button type='button'>Click</button>
     </div>
+    
+
+    
   );
 }
+
